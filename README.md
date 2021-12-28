@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 - Completed the full time immersive program at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE) 
-- Was voted class president and "best communnity builder" for my cohort at Hack Reactor
+- Was voted class president and "best community builder" for my cohort at Hack Reactor
 - Previously worked in forensic toxicology as a Senior Criminalist
 - I am an avid aerialist 
 
